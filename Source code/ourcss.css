@@ -1,0 +1,27 @@
+.rowspace
+{
+    margin:1%;
+}
+.makedark
+ {
+     background: skyblue;
+ }
+.fulltextbox
+{
+    width:100%;
+}
+.textcolor
+{
+    color:blueviolet;
+}
+.btnright
+{
+display:flex;
+justify-content: flex-end;
+}
+.displaycenter
+ {
+    margin:auto;
+    text-align: center;
+ }
+ 
